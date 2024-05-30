@@ -1,6 +1,6 @@
 # Proyecto Vue.js con Página 404 Animada y Responsiva
 
-Este proyecto es una aplicación web desarrollada con Vue.js que incluye una página 404 personalizada, animada y completamente responsiva.
+Este proyecto es una aplicación web desarrollada con Vue.js que incluye una página 404 personalizada, animada y completamente responsiva. puede tener una previa en https://reffcp.github.io/404-not-found/
 
 ## Características
 
