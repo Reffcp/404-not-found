@@ -1,7 +1,21 @@
-# Vue 3 + Vite
+# Proyecto Vue.js con Página 404 Animada y Responsiva
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Este proyecto es una aplicación web desarrollada con Vue.js que incluye una página 404 personalizada, animada y completamente responsiva.
 
-## Recommended IDE Setup
+## Características
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+- **Página 404**: Muestra una página 404 amigable y animada cuando se accede a una ruta inexistente.
+- **Animaciones**: Utiliza `animate.css` para agregar animaciones chidas a los elementos de la página 404.
+- **Responsivo**: Diseño adaptativo que se ve bien en dispositivos móviles y de escritorio.
+
+## Requisitos
+
+- Node.js (v14 o superior)
+- Vue CLI
+
+## Instalación
+
+1. Clona el repositorio:
+
+   ```bash
+   git clone https://github.com/Reffcp/404-not-found.git
